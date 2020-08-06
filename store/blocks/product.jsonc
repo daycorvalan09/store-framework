@@ -3,8 +3,9 @@
     "children": [
       "breadcrumb",
       "flex-layout.row#main",
-      "product-identifier.product",
-      "shelf.relatedProducts"
+      "shelf.relatedProducts",
+      "product-identifier.product"
+      
     ]
   },
   "flex-layout.row#main": {
