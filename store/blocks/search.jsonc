@@ -1,7 +1,8 @@
 {
   "store.search": {
     "blocks": [
-      "search-result-layout"
+      "search-result-layout",
+      "search-result-layout.desktop"
     ]
   },
   "search-result-layout": {
