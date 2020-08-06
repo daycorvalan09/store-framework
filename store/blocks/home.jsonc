@@ -10,7 +10,9 @@
       "responsive-layout",
       "responsive-layout.desktop#desktop",
       "responsive-layout.mobile#mobile",
-      "store.product"
+      "product-images",
+      "product-price",
+      "product-name"
     ]
   },
   "info-card#button-right": {
