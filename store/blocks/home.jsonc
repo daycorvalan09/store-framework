@@ -6,13 +6,9 @@
       "flex-layout.row",
       "flex-layout.col",
       "shelf",
-      "slider-layout#home",
-      "responsive-layout",
+      "slider-layout#home",      
       "responsive-layout.desktop#desktop",
-      "responsive-layout.mobile#mobile",
-      "product-images",
-      "product-price",
-      "product-name"
+      "responsive-layout.mobile#mobile"      
     ]
   },
   "info-card#button-right": {
