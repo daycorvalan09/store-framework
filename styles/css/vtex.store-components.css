@@ -31,9 +31,14 @@
         
   }
 
-.infoCardContainer{
+.infoCardContainer--vintage{
     margin: 0 auto; 
     max-width: 1200px;
     padding: 0; 
 }
 
+.infoCardContainer--metal{
+    margin: 0 auto; 
+    max-width: 1200px;
+    padding: 0; 
+}
