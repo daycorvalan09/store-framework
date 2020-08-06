@@ -1,4 +1,12 @@
-.infoCardHeadline {
+.infoCardHeadline--vintage {
+    font-family: serif;
+    font-size: 2.25rem;
+    font-weight: normal;
+    color: gray;
+    border: 2px solid black;
+    padding: 24px;
+}
+.infoCardHeadline--metal {
     font-family: serif;
     font-size: 2.25rem;
     font-weight: normal;
