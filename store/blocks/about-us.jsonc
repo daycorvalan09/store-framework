@@ -1,0 +1,38 @@
+{
+    "store.custom#about-us": {
+        "blocks": [
+            "flex-layout.row#about-us"
+        ]
+    } ,
+    "flex-layout.row#about-us": {
+        "children": [
+            "image#about-us",
+            "flex-layout.col#text-about-us"
+        ]
+    } ,
+    "flex-layout.col#text-about-us": {
+        "children": [
+            "rich-text#about-title",
+            "rich-text#about-content"
+        ] ,
+        "props": {
+            "preventVerticalStretch": true
+        }
+    } ,
+    "rich-text#about-title": {
+        "props": {
+            "text": "# Sobre a FlatFlat"
+        }
+    } ,
+    "rich-text#about-content": {
+        "props": {
+            "text" : "FlatFlat is an electronics store with a long tradition of manufacturing modern and vintage items. Our goal is to create appliances that make our customers' homes interesting, regardless of style. With just 2 months of history, we are already the store with the most beautiful products from all of VTEX. We are building our website right now in order to give our customer a memorable experience with our brand! "
+        }
+    } ,
+    "image#about-us": {
+        "props": {
+            "src": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-about-us.png",
+            "maxHeight": "600px"
+        }
+    }
+  }
